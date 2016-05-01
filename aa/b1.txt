@@ -2,4 +2,3 @@ sagkkkkkk
 
 kkdddddddddddd
 from t1
-from t2
